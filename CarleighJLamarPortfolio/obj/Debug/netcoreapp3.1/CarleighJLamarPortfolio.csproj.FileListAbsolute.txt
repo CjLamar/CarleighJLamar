@@ -22,13 +22,6 @@ C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\CarleighJLamarPortfolio.TagHelpers.input.cache
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\CarleighJLamarPortfolio.TagHelpers.output.cache
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\CarleighJLamarPortfolio.RazorCoreGenerate.cache
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\Razor\Views\ReferralSquirrel.cshtml.g.cs
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\CarleighJLamarPortfolio.RazorTargetAssemblyInfo.cache
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\CarleighJLamarPortfolio\obj\Debug\netcoreapp3.1\CarleighJLamarPortfolio.RazorTargetAssemblyInfo.cs
