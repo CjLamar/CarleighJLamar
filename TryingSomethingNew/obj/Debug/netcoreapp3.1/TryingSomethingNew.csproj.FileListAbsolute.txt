@@ -8,7 +8,6 @@ C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\bin\Debug
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\bin\Debug\netcoreapp3.1\TryingSomethingNew.pdb
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\bin\Debug\netcoreapp3.1\TryingSomethingNew.Views.dll
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\bin\Debug\netcoreapp3.1\TryingSomethingNew.Views.pdb
-C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\obj\Debug\netcoreapp3.1\TryingSomethingNew.csproj.AssemblyReference.cache
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\obj\Debug\netcoreapp3.1\TryingSomethingNew.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\obj\Debug\netcoreapp3.1\TryingSomethingNew.AssemblyInfoInputs.cache
 C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\obj\Debug\netcoreapp3.1\TryingSomethingNew.AssemblyInfo.cs
