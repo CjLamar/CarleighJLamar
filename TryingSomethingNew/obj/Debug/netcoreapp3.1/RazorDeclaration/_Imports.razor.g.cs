@@ -68,13 +68,6 @@ using TryingSomethingNew;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 9 "C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\_Imports.razor"
-using TryingSomethingNew.Shared;
-
-#line default
-#line hidden
-#nullable disable
     public partial class _Imports : System.Object
     {
         #pragma warning disable 1998

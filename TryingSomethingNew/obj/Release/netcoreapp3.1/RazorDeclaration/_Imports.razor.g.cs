@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace TryingSomethingNew.Pages
+namespace TryingSomethingNew
 {
     #line hidden
     using System;
@@ -75,35 +75,13 @@ using TryingSomethingNew.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 3 "C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\Pages\FetchData.razor"
-using TryingSomethingNew.Data;
-
-#line default
-#line hidden
-#nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
-    public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class _Imports : System.Object
     {
         #pragma warning disable 1998
-        protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
+        protected void Execute()
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 39 "C:\Users\carle\source\repos\CarleighJLamarPortfolio\TryingSomethingNew\Pages\FetchData.razor"
-       
-    private WeatherForecast[] forecasts;
-
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
-    }
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private WeatherForecastService ForecastService { get; set; }
     }
 }
 #pragma warning restore 1591
